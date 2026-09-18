@@ -247,6 +247,7 @@ if __name__ == '__main__':
     * [协程(Coroutines)](https://github.com/GuangTianLi/Understanding-Asynchronous-IO/tree/master/coroutines)
     * [async/await](https://github.com/GuangTianLi/Understanding-Asynchronous-IO/tree/master/concurrency)
 * Asyncio
+    * 具体代码在`example/hello_asyncio.py`中。
 
 # 参考文献
 
@@ -255,5 +256,3 @@ if __name__ == '__main__':
 * [Understanding Asyncio Node.js Python3.4](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
 * [使用Python进行并发编程-asyncio篇(一)](http://www.dongwm.com/archives/%E4%BD%BF%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B-asyncio%E7%AF%87/)
 * [select、poll、epoll之间的区别总结`[整理]`](http://www.cnblogs.com/Anker/p/3265058.html)
-
-
